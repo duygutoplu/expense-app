@@ -33,7 +33,7 @@ This app works together with a separate backend project:
 
 ## Development Setup
 
-### 1. Start the backend
+1. Start the backend
 
 Open the backend project first:
 
