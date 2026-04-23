@@ -101,6 +101,3 @@ authentication
 TestFlight build  
 App Store ready version  
 
-Author
-
-Designed by Duygu Toplu
